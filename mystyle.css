@@ -1,0 +1,21 @@
+
+header{
+    border-bottom: gray solid 1px;
+}
+.total-bag{
+    padding-left: 5px;
+    padding-top: 2px;
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 600;
+    line-height: 1.2;
+    font-size: 30;
+    
+}
+.produit{
+    display: flex;
+    padding: 1%;
+    align-items: center ;
+    border-bottom: gray solid 1px;
+
+}
